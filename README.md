@@ -46,13 +46,23 @@ Reoganize with docusaurus
 
 [redux](https://redux.js.org/)
 
+[rematchjs](https://rematchjs.org/)
+
 [recoil](https://recoiljs.org/)
+
+[xstate](https://xstate.js.org/docs/)
+
+[jotai](https://github.com/pmndrs/jotai)
 
 [Next.js](https://nextjs.org/)
 
 [next-i18next](https://github.com/isaachinman/next-i18next)
 
 [next-translate](https://github.com/vinissimus/next-translate)
+
+[react-query](https://react-query.tanstack.com/)
+
+[useSWR](https://swr.vercel.app/)
 
 [vue](https://vuejs.org/)
 
@@ -90,13 +100,23 @@ Reoganize with docusaurus
 
 [material-ui](https://material-ui.com/)
 
+[chakra-ui](https://chakra-ui.com/)
+
+[react-charts](https://react-charts.tanstack.com/)
+
+[react-table](https://react-table.tanstack.com/)
+
 [deck.js](http://imakewebthings.com/deck.js/)
+
+[react-mde](https://github.com/andrerpena/react-mde)
 
 [pixijs](https://www.pixijs.com/)
 
 [docusaurus](https://docusaurus.io/)
 
 [react-spring](https://github.com/pmndrs/react-spring)
+
+[framer-motion](https://www.framer.com/motion/)
 
 [react-hook-form](https://react-hook-form.com/)
 
@@ -127,6 +147,8 @@ Reoganize with docusaurus
 [apollo-server](https://www.apollographql.com/docs/apollo-server/)
 
 [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+
+[got](https://github.com/sindresorhus/got)
 
 ### testing
 
